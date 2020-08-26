@@ -1,2 +1,2 @@
 # DiscreteMaths-KL
-Discrete Mathematics Lecture Notes [Link](https://alejandratm.github.io/DiscreteMaths-KL/Clase1/)
+Discrete Mathematics Lecture Notes [Link](https://github.com/AlejandraTM/DiscreteMaths-KL/blob/master/Hello%20World.slides.html)
