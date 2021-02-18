@@ -8,5 +8,16 @@ Docente: Alejandra Torres Manotas [alejandra.torresma@konradlorenz.edu.co](mailt
 ## 📔 Temas de la clase
 
 * Fundamentos
-  *(Conjuntos y relaciones)
-* Técnicas de conteo (Principios de conteo, permutaciones y combinaciones, y permutaciones y combinaciones con repeticiones)
+   * Conjuntos
+   * Relaciones
+* Técnicas de conteo 
+   * Principios de conteo
+   * Permutaciones y combinaciones
+   * Permutaciones y combinaciones con repeticiones
+* Grafos
+   * Conceptos básicos
+   * Representación de grafos
+   * Tipos de grafos
+   * Grafos de Euler
+   * Grafos de Hamilton
+   * Coloración de grafos
