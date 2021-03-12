@@ -21,3 +21,12 @@ Docente: Alejandra Torres Manotas [alejandra.torresma@konradlorenz.edu.co](mailt
    * Grafos de Euler
    * Grafos de Hamilton
    * Coloración de grafos
+   
+## ✍️ Talleres y exámenes
+
+Estos son algunas de las soluciones de los talleres desarrollados durante los semestres:
+
+| Tarea | Enlace a la solución|
+| ---------- | ---------- |
+| Fundamentos (conjuntos y relaciones)  | [Solución en SageMAth](https://github.com/AlejandraTM/DiscreteMaths-KL/blob/master/SolTalleres/Tarea1(2021-1)Fundamentos/Soluci%C3%B3n%20Tarea%201.html)   |
+
