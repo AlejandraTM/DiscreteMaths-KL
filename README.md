@@ -28,5 +28,5 @@ Estos son algunas de las soluciones de los talleres desarrollados durante los se
 
 | Tarea | Enlace a la solución|
 | ---------- | ---------- |
-| Fundamentos (conjuntos y relaciones)  | [Solución en SageMAth](https://alejandratm.github.io/ DiscreteMaths-KL/SolTalleres/Tarea1(2021-1)Fundamentos/Solucion-Tarea-1.html )   |
+| Fundamentos (conjuntos y relaciones)  | [Solución en SageMAth](https://alejandratm.github.io/DiscreteMaths-KL/SolTalleres/Tarea1(2021-1)Fundamentos/Solucion-Tarea-1.html)   |
 
