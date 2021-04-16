@@ -28,6 +28,7 @@ Estos son algunas de las soluciones de los talleres desarrollados durante los se
 | Tarea | Enlace a la solución|
 | ---------- | ---------- |
 | Fundamentos (conjuntos y relaciones)  | [Solución en SageMath](https://alejandratm.github.io/DiscreteMaths-KL/SolTalleres/Tarea1(2021-1)Fundamentos/Solucion-Tarea-1.html)   |
+| Principios de conteo  | [Solución en LaTeX](https://drive.google.com/file/d/1tD21HlR2GMpnxe9q343gSMBbBxWNhXgT/view?usp=sharing)   |
 
 | Exámenes | Enlace a la solución|
 | ---------- | ---------- |
