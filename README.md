@@ -30,6 +30,7 @@ Estos son algunas de las soluciones de los talleres desarrollados durante los se
 | Fundamentos (conjuntos y relaciones)  | [Solución en SageMath](https://alejandratm.github.io/DiscreteMaths-KL/SolTalleres/Tarea1(2021-1)Fundamentos/Solucion-Tarea-1.html)   |
 | Principios de conteo  | [Solución en LaTeX](https://drive.google.com/file/d/1tD21HlR2GMpnxe9q343gSMBbBxWNhXgT/view?usp=sharing)   |
 | Combinaciones y permutaciones| [Solución en LaTeX](https://drive.google.com/file/d/1bMmk84q1XAXUWuKhhBu2unYwCqGCdADj/view?usp=sharing) |
+|Grafos (Caminos)| [Solución en LaTeX](https://drive.google.com/file/d/1mdWTW5jRwPJBsLZg52-DRpQ4JA6iJhbs/view?usp=sharing) |
 
 | Exámenes | Enlace a la solución|
 | ---------- | ---------- |
