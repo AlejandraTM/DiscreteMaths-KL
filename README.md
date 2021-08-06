@@ -2,7 +2,7 @@
 ## Fundación Universitaria Konrad Lorenz
 ### Periodos 2020-1, 2020-2 y 2021-1
 
-Docente: Alejandra Torres Manotas [alejandra.torresma@konradlorenz.edu.co](mailto:alejandra.torresm@konradlorenz.edu.co)
+Docente: Alejandra Torres Manotas 
 
 ## 📔 Temas de la clase
 
