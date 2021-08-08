@@ -1,5 +1,5 @@
 # Matemáticas Discretas
-## Fundación Universitaria Konrad Lorenz
+## [🏛️](http://www.konradlorenz.edu.co/es/aspirantes/carreras-universitarias/carrera-de-matematicas/presentacion.html) Fundación Universitaria Konrad Lorenz 
 ### Periodos 2020-1, 2020-2 y 2021-1
 
 Docente: Alejandra Torres Manotas 
