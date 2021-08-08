@@ -29,8 +29,8 @@ Estos son algunas de los talleres desarrollados durante los semestres:
 
 | Tarea | 
 | ---------- | 
-| [Conjuntos](https://drive.google.com/file/d/1UruQdNjwH-5tQ1LVg4Dk8J3vPC_QZiJW/view?usp=sharing)   |
-| [Relaciones](https://drive.google.com/file/d/112ZxVDzN3Bh7lg7p22ejyLE3QyrHxZYm/view?usp=sharing)   |
+| Conjuntos [🇲🇽](https://drive.google.com/file/d/1UruQdNjwH-5tQ1LVg4Dk8J3vPC_QZiJW/view?usp=sharing)  |
+| [Relaciones](https://drive.google.com/file/d/112ZxVDzN3Bh7lg7p22ejyLE3QyrHxZYm/view?usp=sharing) |
 | [Funciones](https://drive.google.com/file/d/1Gb4pUO7sZ6nr7ETFFgESQ-XB2S25pcyz/view?usp=sharing) |
 | [Conteo I](https://drive.google.com/file/d/10efJKduF15Wghwv9IlItHMBIUntAoIxD/view?usp=sharing) |
 
