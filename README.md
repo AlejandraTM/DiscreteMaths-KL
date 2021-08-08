@@ -23,7 +23,7 @@ Docente: Alejandra Torres Manotas
    
 ## ✍️ Talleres y exámenes
 
-Estos son algunas de los talleres desarrollados durante los semestres:
+Estos son algunos de los talleres desarrollados durante los semestres:
 
 **Semestre 2020-1**
 
