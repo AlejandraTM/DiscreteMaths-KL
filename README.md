@@ -27,13 +27,22 @@ Estos son algunas de los talleres desarrollados durante los semestres:
 
 **Semestre 2020-1**
 
-| Tarea | 
+| Tarea y solución|
 | ---------- | 
-| Conjuntos [🇲🇽](https://drive.google.com/file/d/1UruQdNjwH-5tQ1LVg4Dk8J3vPC_QZiJW/view?usp=sharing)  |
-| [Relaciones](https://drive.google.com/file/d/112ZxVDzN3Bh7lg7p22ejyLE3QyrHxZYm/view?usp=sharing) |
-| [Funciones](https://drive.google.com/file/d/1Gb4pUO7sZ6nr7ETFFgESQ-XB2S25pcyz/view?usp=sharing) |
-| [Conteo I](https://drive.google.com/file/d/10efJKduF15Wghwv9IlItHMBIUntAoIxD/view?usp=sharing) |
+| Conjuntos [🔎](https://drive.google.com/file/d/1UruQdNjwH-5tQ1LVg4Dk8J3vPC_QZiJW/view?usp=sharing) |
+| Relaciones [🔎](https://drive.google.com/file/d/112ZxVDzN3Bh7lg7p22ejyLE3QyrHxZYm/view?usp=sharing)|
+| Funciones [🔎](https://drive.google.com/file/d/1Gb4pUO7sZ6nr7ETFFgESQ-XB2S25pcyz/view?usp=sharing) [📝](https://drive.google.com/file/d/1Go8DCRRRRX6wTPzrTSYxyrKXk8Q_5hAf/view?usp=sharing)|
+| Conteo [🔎](https://drive.google.com/file/d/10efJKduF15Wghwv9IlItHMBIUntAoIxD/view?usp=sharing) [📝](https://drive.google.com/file/d/1oc5nNZjOAcX7pi0iETPY-MjEq_ZREnWP/view?usp=sharing) [📝](https://drive.google.com/file/d/1CwY-T3jDNa3TXQmhLwAfiy5Do0HE7Xnr/view?usp=sharing) [📝](https://drive.google.com/file/d/17lfmprNJF3dU5h1C1dxwOplVAOZys5nz/view?usp=sharing)|
+| Grafos [🔎](https://drive.google.com/file/d/1cj8_pXKwTTJjkqWJPpFS9somn251cPqZ/view?usp=sharing)|
 
+**Semestre 2020-2**
+
+| Tarea y solución|
+| ---------- | 
+| Conjuntos |
+| Relaciones |
+| Conteo |
+| Grafos |
 
 **Semestre 2021-1**
 
