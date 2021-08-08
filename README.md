@@ -61,4 +61,5 @@ Estos son algunas de los talleres desarrollados durante los semestres:
 
 * Mott, Joe L., Abraham Kandel, and Theodore P. Baker. *Discrete mathematics for computer scientists and mathematicians.* Florida State Univ., 1986.
 * Bloch, Ethan D. *Proofs and fundamentals: a first course in abstract mathematics.* Springer Science & Business Media, 2011.
-* 
+* Johnsonbaugh, Richard. Matemáticas discretas. Pearson Educación, 2005.
+* Grossman, Peter. Discrete mathematics for computing. Palgrave Macmillan, 2002.
