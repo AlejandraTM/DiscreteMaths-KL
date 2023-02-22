@@ -27,7 +27,7 @@ Estos son algunos de los talleres desarrollados durante los semestres:
 
 **Semestre 2020-1**
 
-| Tarea | Enlace a los enunciados y la solución|
+| Tarea | Enlace a los enunciados y soluciones|
 | ---------- | ---------- |
 | Conjuntos | Enunciados [🔎](https://drive.google.com/file/d/1UruQdNjwH-5tQ1LVg4Dk8J3vPC_QZiJW/view?usp=sharing) |
 | Relaciones| Enunciados [🔎](https://drive.google.com/file/d/112ZxVDzN3Bh7lg7p22ejyLE3QyrHxZYm/view?usp=sharing)|
@@ -37,7 +37,7 @@ Estos son algunos de los talleres desarrollados durante los semestres:
 
 **Semestre 2020-2**
 
-| Tarea | Enlace a los enunciados y la solución|
+| Tarea | Enlace a los enunciados y soluciones|
 | ---------- | ---------- | 
 | Conjuntos |Enunciado [🔎](https://drive.google.com/file/d/1QHzs-Qbi1WIx1xL_oPBNt_jdzAk66ahh/view?usp=share_link)|
 | Relaciones |Enunciado [🔎](https://drive.google.com/file/d/1-HFpLLNk1OOKPRozzd9FSvBpm_y0hCNY/view?usp=share_link)|
@@ -60,7 +60,7 @@ Estos son algunos de los talleres desarrollados durante los semestres:
 
 ## 🏆 Material adicional
 
-Todos los cursos para final de semestre tenen un [**trabajo complementario**](https://drive.google.com/file/d/1D-GfFhofcCS3IqqlOn3N1-79H-3hQV4D/view?usp=share_link), el cual era opcional, con el objetivo de mejorar su calificación.
+Todos los cursos para final de semestre tienen un [**trabajo complementario**](https://drive.google.com/file/d/1D-GfFhofcCS3IqqlOn3N1-79H-3hQV4D/view?usp=share_link), el cual era opcional, con el objetivo de mejorar su calificación.
 
 ## 📚 Referencias usadas para el curso
 
