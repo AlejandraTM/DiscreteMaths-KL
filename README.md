@@ -37,12 +37,13 @@ Estos son algunos de los talleres desarrollados durante los semestres:
 
 **Semestre 2020-2**
 
-| Tarea |
-| ---------- | 
-| Conjuntos |
-| Relaciones |
-| Conteo |
-| Grafos |
+| Tarea | Enlace a los enunciados y la solución|
+| ---------- | | ---------- | 
+| Conjuntos |Enunciado [🔎](https://drive.google.com/file/d/1QHzs-Qbi1WIx1xL_oPBNt_jdzAk66ahh/view?usp=share_link)|
+| Relaciones |Enunciado [🔎](https://drive.google.com/file/d/1-HFpLLNk1OOKPRozzd9FSvBpm_y0hCNY/view?usp=share_link)|
+| Conteo |Enunciado [🔎](https://drive.google.com/file/d/1UJNQC8NVhrVr1jV0kvNHl9T9ZJH3KjcU/view?usp=share_link)|
+| Grafos I|Enunciado [🔎](https://drive.google.com/file/d/1Wo5ZXmUQotdZCcW1cTfcbyea8aoFF0GU/view?usp=share_link)|
+| Grafos II|Enunciado [🔎](https://drive.google.com/file/d/1ijOIDDeKRhukGOpyCveK3iljZml3PM8S/view?usp=share_link)|
 
 **Semestre 2021-1**
 
@@ -56,6 +57,10 @@ Estos son algunos de los talleres desarrollados durante los semestres:
 | Examen | Enlace a la solución|
 | ---------- | ---------- |
 | Fundamentos (conjuntos y relaciones)  | [Solución en SageMath](https://alejandratm.github.io/DiscreteMaths-KL/SolParcial/SolucionExamen1-Fundamentos2021.html)   |
+
+## 🏆 Material adicional
+
+Todos los cursos para final de semestre tenen un [**trabajo complementario**](https://drive.google.com/file/d/1D-GfFhofcCS3IqqlOn3N1-79H-3hQV4D/view?usp=share_link), el cual era opcional, con el objetivo de mejorar su calificación.
 
 ## 📚 Referencias usadas para el curso
 
