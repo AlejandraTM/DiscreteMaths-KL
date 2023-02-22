@@ -38,7 +38,7 @@ Estos son algunos de los talleres desarrollados durante los semestres:
 **Semestre 2020-2**
 
 | Tarea | Enlace a los enunciados y la solución|
-| ---------- | | ---------- | 
+| ---------- | ---------- | 
 | Conjuntos |Enunciado [🔎](https://drive.google.com/file/d/1QHzs-Qbi1WIx1xL_oPBNt_jdzAk66ahh/view?usp=share_link)|
 | Relaciones |Enunciado [🔎](https://drive.google.com/file/d/1-HFpLLNk1OOKPRozzd9FSvBpm_y0hCNY/view?usp=share_link)|
 | Conteo |Enunciado [🔎](https://drive.google.com/file/d/1UJNQC8NVhrVr1jV0kvNHl9T9ZJH3KjcU/view?usp=share_link)|
