@@ -62,6 +62,12 @@ Estos son algunos de los talleres desarrollados durante los semestres:
 
 Todos los cursos para final de semestre tienen un [**trabajo complementario**](https://drive.google.com/file/d/1D-GfFhofcCS3IqqlOn3N1-79H-3hQV4D/view?usp=share_link), el cual era opcional, con el objetivo de mejorar su calificación.
 
+Otros materiales adiconales:
+
+* Demostración del [**cardinal del conjunto de partes**](https://drive.google.com/file/d/1tO0m2-c93jaW83eVdOlnvfO4ZZATV8Ir/view?usp=share_link). 
+* [**Generalizaciones de las operaciones entre conjuntos**](https://drive.google.com/file/d/1qmpLwq8ZmOMXlNa38ZBzeFRgwV2qmfyH/view?usp=share_link) para una cantidad infinita de conjuntos.
+* [**Mapa categórico**](https://drive.google.com/file/d/1T149F3bIrq1pOusEwidToryPmeCEy76S/view?usp=share_link) sobre conjuntos.
+
 ## 📚 Referencias usadas para el curso
 
 * Mott, Joe L., Abraham Kandel, and Theodore P. Baker. *Discrete mathematics for computer scientists and mathematicians.* Florida State Univ., 1986.
