@@ -67,7 +67,7 @@ Otros materiales adiconales:
 * Demostración del [**cardinal del conjunto de partes**](https://drive.google.com/file/d/1tO0m2-c93jaW83eVdOlnvfO4ZZATV8Ir/view?usp=share_link). 
 * [**Generalizaciones de las operaciones entre conjuntos**](https://drive.google.com/file/d/1qmpLwq8ZmOMXlNa38ZBzeFRgwV2qmfyH/view?usp=share_link) para una cantidad infinita de conjuntos.
 * [**Mapa categórico**](https://drive.google.com/file/d/1T149F3bIrq1pOusEwidToryPmeCEy76S/view?usp=share_link) sobre conjuntos.
-* [Ejercicios de repaso sobre conjuntos y relaciones.](https://drive.google.com/file/d/1tr6RX8qhR1GYCFmMq9xLk_gM1QphcGTF/view?usp=share_link)
+* [**Ejercicios de repaso sobre conjuntos y relaciones.**](https://drive.google.com/file/d/1tr6RX8qhR1GYCFmMq9xLk_gM1QphcGTF/view?usp=share_link)
 
 ## 📚 Referencias usadas para el curso
 
