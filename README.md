@@ -7,8 +7,9 @@ Docente: Alejandra Torres Manotas
 ## 📔 Temas de la clase
 
 * Fundamentos
-   * Conjuntos
-   * Relaciones
+   * [Conjuntos](https://drive.google.com/file/d/1j0qbEwF1FmImlgEe95jV2ML-r7cGQAGX/view?usp=share_link)
+   * [Relaciones](https://drive.google.com/file/d/1wAwijN2-hOtUOaDa_l-tCb29VcJFsE9H/view?usp=share_link)
+   * [Funciones](https://drive.google.com/file/d/1Is1RFdPSAiBFiyNHsQXTOgNtY3YLXOa8/view?usp=share_link) (opcional)
 * Técnicas de conteo 
    * [Principios de conteo](https://drive.google.com/file/d/1ZW5PFH7rg0rjGw4kMURSgFJsYSJ_m9bP/view?usp=share_link)
    * Permutaciones y combinaciones
@@ -49,10 +50,10 @@ Estos son algunos de los talleres desarrollados durante los semestres:
 
 | Tarea | Enlace a la solución|
 | ---------- | ---------- |
-| Fundamentos (conjuntos y relaciones)  | [Solución en SageMath](https://alejandratm.github.io/DiscreteMaths-KL/SolTalleres/Tarea1(2021-1)Fundamentos/Solucion-Tarea-1.html)   |
+| Fundamentos (conjuntos y relaciones) [🔎] (https://drive.google.com/file/d/1q0oxPhZO3BzvCB96Z5PVK0birK7paFdI/view?usp=share_link) | [Solución en SageMath](https://alejandratm.github.io/DiscreteMaths-KL/SolTalleres/Tarea1(2021-1)Fundamentos/Solucion-Tarea-1.html)   |
 | Principios de conteo [🔎](https://drive.google.com/file/d/1ONY6fwGpvShvMZsqRjKH3ob1zj0wBVh7/view?usp=share_link) | [Solución en LaTeX](https://drive.google.com/file/d/1tD21HlR2GMpnxe9q343gSMBbBxWNhXgT/view?usp=sharing)   |
-| Combinaciones y permutaciones| [Solución en LaTeX](https://drive.google.com/file/d/1bMmk84q1XAXUWuKhhBu2unYwCqGCdADj/view?usp=sharing) |
-|Grafos (Caminos)| [Solución en LaTeX](https://drive.google.com/file/d/1mdWTW5jRwPJBsLZg52-DRpQ4JA6iJhbs/view?usp=sharing) |
+| Combinaciones y permutaciones [🔎](https://drive.google.com/file/d/1QbzFp_IopWdC8VpGhKM3yJAcP0V781Xb/view?usp=share_link)| [Solución en LaTeX](https://drive.google.com/file/d/1bMmk84q1XAXUWuKhhBu2unYwCqGCdADj/view?usp=sharing) |
+|Grafos (Caminos) [🔎](https://drive.google.com/file/d/1UNvbnrI4Xy9Th1Iwa4ZRfgPOGRafpB82/view?usp=share_link) | [Solución en LaTeX](https://drive.google.com/file/d/1mdWTW5jRwPJBsLZg52-DRpQ4JA6iJhbs/view?usp=sharing) |
 
 | Examen | Enlace a la solución|
 | ---------- | ---------- |
