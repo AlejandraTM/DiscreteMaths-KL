@@ -10,7 +10,7 @@ Docente: Alejandra Torres Manotas
    * Conjuntos
    * Relaciones
 * Técnicas de conteo 
-   * Principios de conteo
+   * [Principios de conteo](https://drive.google.com/file/d/1ZW5PFH7rg0rjGw4kMURSgFJsYSJ_m9bP/view?usp=share_link)
    * Permutaciones y combinaciones
    * Permutaciones y combinaciones con repeticiones
 * Grafos
