@@ -13,7 +13,7 @@ Docente: Alejandra Torres Manotas
 * Técnicas de conteo 
    * [Principios de conteo](https://drive.google.com/file/d/1ZW5PFH7rg0rjGw4kMURSgFJsYSJ_m9bP/view?usp=share_link)
    * [Permutaciones](https://drive.google.com/file/d/1y7p-T8soa8_Umj1lR9hLj0DzQvqtZR8u/view?usp=sharing) y [combinaciones](https://drive.google.com/file/d/1j5B_M_gwsGfDP73G-x_a3R7yeeTnLV4L/view?usp=share_link)
-   * Permutaciones y combinaciones con repeticiones
+   * Permutaciones y combinaciones con repeticiones.
 * Grafos
    * Conceptos básicos
    * Representación de grafos
