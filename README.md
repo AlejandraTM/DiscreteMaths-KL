@@ -13,7 +13,7 @@ Docente: Alejandra Torres Manotas
 * Técnicas de conteo 
    * [Principios de conteo](https://drive.google.com/file/d/1ZW5PFH7rg0rjGw4kMURSgFJsYSJ_m9bP/view?usp=share_link)
    * [Permutaciones](https://drive.google.com/file/d/1y7p-T8soa8_Umj1lR9hLj0DzQvqtZR8u/view?usp=sharing) y [combinaciones](https://drive.google.com/file/d/1j5B_M_gwsGfDP73G-x_a3R7yeeTnLV4L/view?usp=share_link)
-   * Permutaciones y combinaciones con repeticiones.
+   * [Permutaciones y combinaciones con repeticiones.](https://drive.google.com/file/d/1xOMMc0WRVWABDBxHIZwU7i_mGkk6An3l/view?usp=sharing)
 * Grafos
    * Conceptos básicos
    * Representación de grafos
@@ -32,8 +32,8 @@ Estos son algunos de los talleres desarrollados durante los semestres:
 | ---------- | ---------- |
 | Conjuntos | Enunciados [🔎](https://drive.google.com/file/d/1UruQdNjwH-5tQ1LVg4Dk8J3vPC_QZiJW/view?usp=sharing) |
 | Relaciones| Enunciados [🔎](https://drive.google.com/file/d/112ZxVDzN3Bh7lg7p22ejyLE3QyrHxZYm/view?usp=sharing)|
-| Funciones | Enunciados [🔎](https://drive.google.com/file/d/1Gb4pUO7sZ6nr7ETFFgESQ-XB2S25pcyz/view?usp=sharing) Solución [📝](https://drive.google.com/file/d/1Go8DCRRRRX6wTPzrTSYxyrKXk8Q_5hAf/view?usp=sharing)|
-| Conteo | Enunciados [🔎](https://drive.google.com/file/d/10efJKduF15Wghwv9IlItHMBIUntAoIxD/view?usp=sharing) Soluciones [📝](https://drive.google.com/file/d/1oc5nNZjOAcX7pi0iETPY-MjEq_ZREnWP/view?usp=sharing) [📝](https://drive.google.com/file/d/1CwY-T3jDNa3TXQmhLwAfiy5Do0HE7Xnr/view?usp=sharing) [📝](https://drive.google.com/file/d/17lfmprNJF3dU5h1C1dxwOplVAOZys5nz/view?usp=sharing)|
+| Funciones | Enunciados [🔎](https://drive.google.com/file/d/1Gb4pUO7sZ6nr7ETFFgESQ-XB2S25pcyz/view?usp=sharing) - Solución [📝](https://drive.google.com/file/d/1Go8DCRRRRX6wTPzrTSYxyrKXk8Q_5hAf/view?usp=sharing)|
+| Conteo | Enunciados [🔎](https://drive.google.com/file/d/10efJKduF15Wghwv9IlItHMBIUntAoIxD/view?usp=sharing) - Soluciones [📝](https://drive.google.com/file/d/1oc5nNZjOAcX7pi0iETPY-MjEq_ZREnWP/view?usp=sharing) [📝](https://drive.google.com/file/d/1CwY-T3jDNa3TXQmhLwAfiy5Do0HE7Xnr/view?usp=sharing) [📝](https://drive.google.com/file/d/17lfmprNJF3dU5h1C1dxwOplVAOZys5nz/view?usp=sharing)|
 | Grafos | Enunciados [🔎](https://drive.google.com/file/d/1cj8_pXKwTTJjkqWJPpFS9somn251cPqZ/view?usp=sharing)|
 
 **Semestre 2020-2**
@@ -42,7 +42,7 @@ Estos son algunos de los talleres desarrollados durante los semestres:
 | ---------- | ---------- | 
 | Conjuntos |Enunciado [🔎](https://drive.google.com/file/d/1QHzs-Qbi1WIx1xL_oPBNt_jdzAk66ahh/view?usp=share_link)|
 | Relaciones |Enunciado [🔎](https://drive.google.com/file/d/1-HFpLLNk1OOKPRozzd9FSvBpm_y0hCNY/view?usp=share_link)|
-| Conteo |Enunciado [🔎](https://drive.google.com/file/d/1UJNQC8NVhrVr1jV0kvNHl9T9ZJH3KjcU/view?usp=share_link)|
+| Conteo |Enunciado [🔎](https://drive.google.com/file/d/1UJNQC8NVhrVr1jV0kvNHl9T9ZJH3KjcU/view?usp=share_link) - solución [📝](https://drive.google.com/file/d/1pmDjZGnREeYorZvUq7vTVnY_TauZY7On/view?usp=sharing)|
 | Grafos I|Enunciado [🔎](https://drive.google.com/file/d/1Wo5ZXmUQotdZCcW1cTfcbyea8aoFF0GU/view?usp=share_link)|
 | Grafos II|Enunciado [🔎](https://drive.google.com/file/d/1ijOIDDeKRhukGOpyCveK3iljZml3PM8S/view?usp=share_link)|
 
