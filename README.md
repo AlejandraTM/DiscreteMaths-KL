@@ -42,7 +42,7 @@ Estos son algunos de los talleres desarrollados durante los semestres:
 | ---------- | ---------- | 
 | Conjuntos |Enunciado [🔎](https://drive.google.com/file/d/1QHzs-Qbi1WIx1xL_oPBNt_jdzAk66ahh/view?usp=share_link)|
 | Relaciones |Enunciado [🔎](https://drive.google.com/file/d/1-HFpLLNk1OOKPRozzd9FSvBpm_y0hCNY/view?usp=share_link)|
-| Conteo |Enunciado [🔎](https://drive.google.com/file/d/1UJNQC8NVhrVr1jV0kvNHl9T9ZJH3KjcU/view?usp=share_link) - solución [📝](https://drive.google.com/file/d/1pmDjZGnREeYorZvUq7vTVnY_TauZY7On/view?usp=sharing)|
+| Conteo |Enunciado [🔎](https://drive.google.com/file/d/1UJNQC8NVhrVr1jV0kvNHl9T9ZJH3KjcU/view?usp=share_link) - Solución [📝](https://drive.google.com/file/d/1pmDjZGnREeYorZvUq7vTVnY_TauZY7On/view?usp=sharing)|
 | Grafos I|Enunciado [🔎](https://drive.google.com/file/d/1Wo5ZXmUQotdZCcW1cTfcbyea8aoFF0GU/view?usp=share_link)|
 | Grafos II|Enunciado [🔎](https://drive.google.com/file/d/1ijOIDDeKRhukGOpyCveK3iljZml3PM8S/view?usp=share_link)|
 
